@@ -1,0 +1,2 @@
+# uczesiegita
+Uczę się gita
